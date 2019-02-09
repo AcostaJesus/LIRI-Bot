@@ -6,7 +6,7 @@ let request = require('request');
 let figlet = require('figlet');
 let keys = require("./keys.js");
 let Spotify = require('node-spotify-api');
-let spotify = new Spotify(keys.spotify);
+let spotify = new Spotify(keys.spotifyKeys);
 
 let chalk = require('chalk');
 

@@ -10,7 +10,7 @@ var spotifyKeys = {
 
 // OMDB API
 var omdbapiKey = {
-	apiKey:"40e9cece"
+	apiKey:"71a19d15"
 };
 
 // Export keys
