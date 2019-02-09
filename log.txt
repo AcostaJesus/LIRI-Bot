@@ -98,3 +98,41 @@ Invalid. Does not compute. Self-destructing in 3..2..1..
 [94m[39m
 [94m---------------------------------------------------[39m
 [94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mRelease Year: 2013[39m
+[32mIMDB Rating: 4.8[39m
+[32mTitle: After Earth[39m
+[32mRotten Tomatoes Rating: 11%[39m
+[32mCountry: USA[39m
+[32mLanguage: English[39m
+[32mPlot: A crash landing leaves Kitai Raige and his father Cypher stranded on Earth, a millennium after events forced humanity's escape. With Cypher injured, Kitai must embark on a perilous journey to signal for help.[39m
+[32mActors: Jaden Smith, Will Smith, Sophie Okonedo, Zoë Kravitz[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist: Mord Fustang[39m
+[32mPreview: https://p.scdn.co/mp3-preview/e0535b972273b8f52be7220ac7b3280e1d07088a?cid=6c014646f957407d94e28a7dd28c1b10[39m
+[32mAlbum: All Eyes On Mord Fustang[39m
+[32mSong: Lick The Rainbow - Original Mix[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mIMDB Rating: 6.2[39m
+[32mTitle: The Case for Christ[39m
+[32mRotten Tomatoes Rating: 54%[39m
+[32mRelease Year: 2017[39m
+[32mLanguage: English[39m
+[32mActors: Erika Christensen, Faye Dunaway, Frankie Faison, Robert Forster[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mPlot: An investigative journalist and self-proclaimed atheist sets out to disprove the existence of God after his wife becomes a Christian.[39m
+[32mCountry: USA[39m
